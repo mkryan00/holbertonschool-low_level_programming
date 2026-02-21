@@ -2,8 +2,8 @@
 #include "main.h"
 
 /**
-* _islower - print numbers
-* @c: a int
+* _islower - checks for lowercase character
+* @c: parameterto be checked  a int
 * Return: 0
 */
 
